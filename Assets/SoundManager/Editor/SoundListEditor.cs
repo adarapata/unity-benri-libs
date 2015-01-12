@@ -2,7 +2,6 @@
 using UnityEditor;
 using System.Collections;
 using System;
-using System.Collections.Generic;
 
 [CustomEditor (typeof(SoundList))]
 public class SoundListEditor : UnityEditor.Editor

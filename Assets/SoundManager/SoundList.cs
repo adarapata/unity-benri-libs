@@ -1,9 +1,6 @@
 ﻿using UnityEngine;
-using System.Collections;
-using UnityEditor;
-using System.Collections.Generic;
 using System;
-using System.Linq;
+using System.Collections;
 
 public class SoundList : ScriptableObject {
     private AudioClip[] audioList = new AudioClip[0];
